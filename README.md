@@ -20,7 +20,5 @@
   <a href="https://github.com/DalioKim/musicStreaming/blob/master/free_board.php">자유게시판</a></br></br>
   <a href="https://github.com/DalioKim/musicStreaming/blob/master/wrtie(%EB%8B%A4%EC%A4%91%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%84%B1%EA%B3%B5).php">게시글 등록 작업 파일</a></br></br>
   <a href="https://github.com/DalioKim/musicStreaming/blob/master/update_favorite.php">즐겨찾기 작업 파일</a></br></br>
-
-
   <a href="https://github.com/DalioKim/musicStreaming/blob/master/crawling.js">DJ랭킹 크롤링</a></br></br>
  </br></br>
